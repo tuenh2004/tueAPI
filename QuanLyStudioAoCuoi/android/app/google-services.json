@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "614997459614",
+    "project_id": "lab6-4c49d",
+    "storage_bucket": "lab6-4c49d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614997459614:android:54708c571b2464ee2a318f",
+        "android_client_info": {
+          "package_name": "com.example.firestoredatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614997459614-ahp2u08pbjp1qdcfv2k4v37nthu7bmo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe4d7JZMXstMmfkcqvG_FRya4N4-M5Ivk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614997459614-ahp2u08pbjp1qdcfv2k4v37nthu7bmo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614997459614:android:0f818946568e38bd2a318f",
+        "android_client_info": {
+          "package_name": "com.quanlystudioaocuoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614997459614-ahp2u08pbjp1qdcfv2k4v37nthu7bmo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe4d7JZMXstMmfkcqvG_FRya4N4-M5Ivk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614997459614-ahp2u08pbjp1qdcfv2k4v37nthu7bmo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
